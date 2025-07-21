@@ -1,4 +1,4 @@
-# 🧱 Brick Breaker – CS 100 C++ Game
+# 🧱 My Brick Breaker – C++ Game
 
 ## 🎮 Overview
 A classic Brick Breaker replica developed in **C++** as part of my CS 100 coursework. This desktop game features intuitive controls, profile management, multiple difficulty levels, and physics-based gameplay mechanics—all built from scratch without game engines.
@@ -60,4 +60,4 @@ g++ main.cpp -o game -Igraphics -Lgraphics -lbgi -lgdi32 -lcomdlg32 -luuid -lole
 
 Everything—from tile rendering and collision to game progression and interface—was built from scratch in C++.
 
-📣 Created by usjav for CS 100 with ❤️
+📣 Created by usjav for CS 100 project with ❤️
