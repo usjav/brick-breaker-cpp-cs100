@@ -50,6 +50,7 @@ Players can create/load profiles, select gameplay difficulty (Easy / Medium / Ha
 ```bash
 g++ main.cpp -o game -Igraphics -Lgraphics -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
 ```
+4. Run ```game.exe``` and enjoy!
 
 ⚠️ Do not remove the graphics/ folder — it contains essential header and DLL files.
 
